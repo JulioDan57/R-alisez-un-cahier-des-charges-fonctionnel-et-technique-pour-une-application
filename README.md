@@ -135,6 +135,16 @@ La future solution doit permettre :
 
 ---
 
+## 💻 Application auditée
+
+Ce dépôt contient également le code source de l'application existante ayant servi de base à l'audit.
+
+Cette version historique a été analysée afin d'identifier les limites fonctionnelles, techniques et ergonomiques ayant conduit à la définition des spécifications de la future application.
+
+📁 Source : [application_v1](application_v1/)
+
+---
+
 ## 📦 Livrables du projet
 
 - 📋 Audit de l'application existante : [Voir le document](docs/audit.pdf)
