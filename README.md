@@ -141,7 +141,7 @@ Ce dépôt contient également le code source de l'application existante ayant s
 
 Cette version historique a été analysée afin d'identifier les limites fonctionnelles, techniques et ergonomiques ayant conduit à la définition des spécifications de la future application.
 
-📁 Source : [application_v1](application_v1/)
+📁 Source : [application_V1](application_V1/)
 
 ---
 
